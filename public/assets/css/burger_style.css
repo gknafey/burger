@@ -1,0 +1,21 @@
+ul {
+    padding: 5px;
+    margin: 5px;
+    background: #dd8512;
+  }
+  
+  .create-form {
+    padding: 5px;
+    margin: 5px;
+    background: rgb(230, 192, 111);
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
+
+  .burgs {
+    padding: 5px;
+    margin: 5px;
+    background: #dd8512;
+  }
